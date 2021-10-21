@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\bin\Debug\net5.0\LoopsAndNumbers3.exe
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\bin\Debug\net5.0\LoopsAndNumbers3.deps.json
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\bin\Debug\net5.0\LoopsAndNumbers3.runtimeconfig.json
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\bin\Debug\net5.0\LoopsAndNumbers3.runtimeconfig.dev.json
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\bin\Debug\net5.0\LoopsAndNumbers3.dll
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\bin\Debug\net5.0\ref\LoopsAndNumbers3.dll
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\bin\Debug\net5.0\LoopsAndNumbers3.pdb
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\obj\Debug\net5.0\LoopsAndNumbers3.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\obj\Debug\net5.0\LoopsAndNumbers3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\obj\Debug\net5.0\LoopsAndNumbers3.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\obj\Debug\net5.0\LoopsAndNumbers3.AssemblyInfo.cs
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\obj\Debug\net5.0\LoopsAndNumbers3.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\obj\Debug\net5.0\LoopsAndNumbers3.dll
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\obj\Debug\net5.0\ref\LoopsAndNumbers3.dll
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\obj\Debug\net5.0\LoopsAndNumbers3.pdb
+C:\Users\angel\source\repos\LoopsAndRandomNumbers\LoopsAndNumbers3\obj\Debug\net5.0\LoopsAndNumbers3.genruntimeconfig.cache
